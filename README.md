@@ -6,7 +6,7 @@ Overview
 I conducted a sentiment analysis on tweets using Natural Language Processing (NLP) techniques to classify sentiments as positive, negative, or neutral. This helped uncover trends in how entities such as companies or public figures are perceived on social media platforms. The insights were visualized to provide a clearer understanding of sentiment distribution and common keywords associated with each sentiment.
 
 Skills Gained
-Text preprocessing and cleaning using Pandas and NLTK
+Text preprocessing and cleaning using Pandas and NLTK 
 Feature extraction using TF-IDF and word embeddings
 Sentiment classification using machine learning models
 Data visualization with Seaborn and Matplotlib
